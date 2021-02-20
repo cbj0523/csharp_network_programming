@@ -1,0 +1,6 @@
+D:\Programming Workspace\C#\CSharp_Networking_Programming\TCPServer\bin\Debug\TCPServer.exe
+D:\Programming Workspace\C#\CSharp_Networking_Programming\TCPServer\bin\Debug\TCPServer.pdb
+D:\Programming Workspace\C#\CSharp_Networking_Programming\TCPServer\obj\Debug\TCPServer.csprojAssemblyReference.cache
+D:\Programming Workspace\C#\CSharp_Networking_Programming\TCPServer\obj\Debug\TCPServer.csproj.CoreCompileInputs.cache
+D:\Programming Workspace\C#\CSharp_Networking_Programming\TCPServer\obj\Debug\TCPServer.exe
+D:\Programming Workspace\C#\CSharp_Networking_Programming\TCPServer\obj\Debug\TCPServer.pdb

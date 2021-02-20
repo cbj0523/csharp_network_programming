@@ -1,0 +1,16 @@
+D:\Programming Workspace\C#\csharp_networking_programming\CSharp_Networking_Programming\bin\Debug\net5.0\CSharp_Networking_Programming.exe
+D:\Programming Workspace\C#\csharp_networking_programming\CSharp_Networking_Programming\bin\Debug\net5.0\CSharp_Networking_Programming.deps.json
+D:\Programming Workspace\C#\csharp_networking_programming\CSharp_Networking_Programming\bin\Debug\net5.0\CSharp_Networking_Programming.runtimeconfig.json
+D:\Programming Workspace\C#\csharp_networking_programming\CSharp_Networking_Programming\bin\Debug\net5.0\CSharp_Networking_Programming.runtimeconfig.dev.json
+D:\Programming Workspace\C#\csharp_networking_programming\CSharp_Networking_Programming\bin\Debug\net5.0\CSharp_Networking_Programming.dll
+D:\Programming Workspace\C#\csharp_networking_programming\CSharp_Networking_Programming\bin\Debug\net5.0\ref\CSharp_Networking_Programming.dll
+D:\Programming Workspace\C#\csharp_networking_programming\CSharp_Networking_Programming\bin\Debug\net5.0\CSharp_Networking_Programming.pdb
+D:\Programming Workspace\C#\csharp_networking_programming\CSharp_Networking_Programming\obj\Debug\net5.0\CSharp_Networking_Programming.csprojAssemblyReference.cache
+D:\Programming Workspace\C#\csharp_networking_programming\CSharp_Networking_Programming\obj\Debug\net5.0\CSharp_Networking_Programming.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming Workspace\C#\csharp_networking_programming\CSharp_Networking_Programming\obj\Debug\net5.0\CSharp_Networking_Programming.AssemblyInfoInputs.cache
+D:\Programming Workspace\C#\csharp_networking_programming\CSharp_Networking_Programming\obj\Debug\net5.0\CSharp_Networking_Programming.AssemblyInfo.cs
+D:\Programming Workspace\C#\csharp_networking_programming\CSharp_Networking_Programming\obj\Debug\net5.0\CSharp_Networking_Programming.csproj.CoreCompileInputs.cache
+D:\Programming Workspace\C#\csharp_networking_programming\CSharp_Networking_Programming\obj\Debug\net5.0\CSharp_Networking_Programming.dll
+D:\Programming Workspace\C#\csharp_networking_programming\CSharp_Networking_Programming\obj\Debug\net5.0\ref\CSharp_Networking_Programming.dll
+D:\Programming Workspace\C#\csharp_networking_programming\CSharp_Networking_Programming\obj\Debug\net5.0\CSharp_Networking_Programming.pdb
+D:\Programming Workspace\C#\csharp_networking_programming\CSharp_Networking_Programming\obj\Debug\net5.0\CSharp_Networking_Programming.genruntimeconfig.cache

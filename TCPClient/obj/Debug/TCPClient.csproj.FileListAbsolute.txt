@@ -1,0 +1,6 @@
+D:\Programming Workspace\C#\CSharp_Networking_Programming\TCPClient\bin\Debug\TCPClient.exe
+D:\Programming Workspace\C#\CSharp_Networking_Programming\TCPClient\bin\Debug\TCPClient.pdb
+D:\Programming Workspace\C#\CSharp_Networking_Programming\TCPClient\obj\Debug\TCPClient.csprojAssemblyReference.cache
+D:\Programming Workspace\C#\CSharp_Networking_Programming\TCPClient\obj\Debug\TCPClient.csproj.CoreCompileInputs.cache
+D:\Programming Workspace\C#\CSharp_Networking_Programming\TCPClient\obj\Debug\TCPClient.exe
+D:\Programming Workspace\C#\CSharp_Networking_Programming\TCPClient\obj\Debug\TCPClient.pdb

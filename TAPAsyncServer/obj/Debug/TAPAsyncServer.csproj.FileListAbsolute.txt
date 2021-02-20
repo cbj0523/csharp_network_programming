@@ -1,0 +1,6 @@
+D:\Programming Workspace\C#\CSharp_Networking_Programming\TAPAsyncServer\bin\Debug\TAPAsyncServer.exe
+D:\Programming Workspace\C#\CSharp_Networking_Programming\TAPAsyncServer\bin\Debug\TAPAsyncServer.pdb
+D:\Programming Workspace\C#\CSharp_Networking_Programming\TAPAsyncServer\obj\Debug\TAPAsyncServer.csprojAssemblyReference.cache
+D:\Programming Workspace\C#\CSharp_Networking_Programming\TAPAsyncServer\obj\Debug\TAPAsyncServer.csproj.CoreCompileInputs.cache
+D:\Programming Workspace\C#\CSharp_Networking_Programming\TAPAsyncServer\obj\Debug\TAPAsyncServer.exe
+D:\Programming Workspace\C#\CSharp_Networking_Programming\TAPAsyncServer\obj\Debug\TAPAsyncServer.pdb
