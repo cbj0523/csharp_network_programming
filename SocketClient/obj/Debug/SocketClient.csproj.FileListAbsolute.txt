@@ -1,0 +1,6 @@
+D:\Programming Workspace\C#\CSharp_Networking_Programming\SocketClient\bin\Debug\SocketClient.exe
+D:\Programming Workspace\C#\CSharp_Networking_Programming\SocketClient\bin\Debug\SocketClient.pdb
+D:\Programming Workspace\C#\CSharp_Networking_Programming\SocketClient\obj\Debug\SocketClient.csprojAssemblyReference.cache
+D:\Programming Workspace\C#\CSharp_Networking_Programming\SocketClient\obj\Debug\SocketClient.csproj.CoreCompileInputs.cache
+D:\Programming Workspace\C#\CSharp_Networking_Programming\SocketClient\obj\Debug\SocketClient.exe
+D:\Programming Workspace\C#\CSharp_Networking_Programming\SocketClient\obj\Debug\SocketClient.pdb

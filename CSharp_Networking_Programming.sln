@@ -10,6 +10,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UDPClient", "UDPClient\UDPC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UDPServer", "UDPServer\UDPServer.csproj", "{8769EDE5-0C1A-4211-8FDE-D11046C30AF7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocketClient", "SocketClient\SocketClient.csproj", "{AAFA12B7-48C1-402E-8494-8BC92CA74E78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocketServer", "SocketServer\SocketServer.csproj", "{BCF3030E-84F4-466C-8B61-3E91055D2826}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +40,13 @@ Global
 		{8769EDE5-0C1A-4211-8FDE-D11046C30AF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8769EDE5-0C1A-4211-8FDE-D11046C30AF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8769EDE5-0C1A-4211-8FDE-D11046C30AF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAFA12B7-48C1-402E-8494-8BC92CA74E78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAFA12B7-48C1-402E-8494-8BC92CA74E78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAFA12B7-48C1-402E-8494-8BC92CA74E78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAFA12B7-48C1-402E-8494-8BC92CA74E78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCF3030E-84F4-466C-8B61-3E91055D2826}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCF3030E-84F4-466C-8B61-3E91055D2826}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCF3030E-84F4-466C-8B61-3E91055D2826}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCF3030E-84F4-466C-8B61-3E91055D2826}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
